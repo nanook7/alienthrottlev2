@@ -2,4 +2,12 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/onfamcom/alienthrottle.com/
-    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp -R index.html $DEPLOYPATH
+    - /bin/cp -R apps.html $DEPLOYPATH
+    - /bin/cp -R about.html $DEPLOYPATH
+    - /bin/cp -R contact.html $DEPLOYPATH
+    - /bin/cp -R privacy.html $DEPLOYPATH
+    - /bin/cp -R sitemap.xml $DEPLOYPATH
+    - /bin/cp -R robots.txt $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
+    
