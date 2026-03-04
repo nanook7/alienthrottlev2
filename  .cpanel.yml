@@ -2,14 +2,14 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/onfamcom/alienthrottle.com/
-    - /bin/cp -R /home/onfamcom/repository/alienthrottlev2/index.html $DEPLOYPATH
-    - /bin/cp -R /home/onfamcom/repository/alienthrottlev2/apps.html $DEPLOYPATH
-    - /bin/cp -R /home/onfamcom/repository/alienthrottlev2/about.html $DEPLOYPATH
-    - /bin/cp -R /home/onfamcom/repository/alienthrottlev2/contact.html $DEPLOYPATH
-    - /bin/cp -R /home/onfamcom/repository/alienthrottlev2/privacy.html $DEPLOYPATH
-    - /bin/cp -R /home/onfamcom/repository/alienthrottlev2/sitemap.xml $DEPLOYPATH
-    - /bin/cp -R /home/onfamcom/repository/alienthrottlev2/robots.txt $DEPLOYPATH
-    - /bin/cp -R /home/onfamcom/repository/alienthrottlev2/assets $DEPLOYPATH
+    - /bin/cp -R /home/onfamcom/repositories/alienthrottlev2/index.html $DEPLOYPATH
+    - /bin/cp -R /home/onfamcom/repositories/alienthrottlev2/apps.html $DEPLOYPATH
+    - /bin/cp -R /home/onfamcom/repositories/alienthrottlev2/about.html $DEPLOYPATH
+    - /bin/cp -R /home/onfamcom/repositories/alienthrottlev2/contact.html $DEPLOYPATH
+    - /bin/cp -R /home/onfamcom/repositories/alienthrottlev2/privacy.html $DEPLOYPATH
+    - /bin/cp -R /home/onfamcom/repositories/alienthrottlev2/sitemap.xml $DEPLOYPATH
+    - /bin/cp -R /home/onfamcom/repositories/alienthrottlev2/robots.txt $DEPLOYPATH
+    - /bin/cp -R /home/onfamcom/repositories/alienthrottlev2/assets $DEPLOYPATH
 
 
     
