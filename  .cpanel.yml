@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/onfamcom/alienthrottle.com/
-    - /bin/cp -r /home/onfamcom/repositories/alienthrottlev2/index.html $DEPLOYPATH
+    - /bin/cp -r index.html $DEPLOYPATH
    
 
 
