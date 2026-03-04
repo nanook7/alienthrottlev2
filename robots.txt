@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://alienthrottle.com/sitemap.xml
+
